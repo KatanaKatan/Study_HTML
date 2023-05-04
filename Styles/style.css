@@ -1,5 +1,5 @@
 p {
-    color: green;
+    color: rgb(241, 210, 3);
     font-size: 16px;
 }
 
@@ -10,3 +10,8 @@ h1 {
 h2 {
     color: blue;
 }
+
+#green {
+    color: green;
+}
+
