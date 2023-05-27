@@ -26,5 +26,12 @@ h3 {
   font-style: italic;
   color: brown;
   background-color: antiquewhite;
-  
+}
+
+.smile_list {
+  list-style-type: "\1F60A";
+}
+
+.no_markers_list {
+  list-style-type: none;
 }
