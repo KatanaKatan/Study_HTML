@@ -1,17 +1,30 @@
-p {
-    color: rgb(241, 210, 3);
-    font-size: 16px;
+/* p {
+  color: rgb(241, 210, 3);
+  font-size: 16px;
 }
+*/
 
 h1 {
-    color: red;
+  color: red;
 }
 
 h2 {
-    color: blue;
+  color: blue;
+}
+
+h3 {
+  color: blueviolet;
 }
 
 #green {
-    color: green;
+  color: green;
+  font-size: 20px;
 }
 
+.text_mark {
+  font-weight: bold;
+  font-style: italic;
+  color: brown;
+  background-color: antiquewhite;
+  
+}
