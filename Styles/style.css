@@ -1,37 +1,35 @@
-/* p {
-  color: rgb(241, 210, 3);
-  font-size: 16px;
-}
+/*
+TEXT (p, h)
+-color (const/rgb/#001122)
+-background-color
+-font-size (px)
+-font-weight (normal/bold)
+-text-aligh (left/right/center/justify)
+-text-transform (uppercase/lowercase/capitalize)
+-letter-spacing
+-word-spacing
+-line-height
+-text-decoration-line
+
+
+
 */
-
-h1 {
-  color: red;
+p {
+  font-size: 14px;
 }
 
-h2 {
-  color: blue;
-}
-
-h3 {
-  color: blueviolet;
-}
-
-#green {
-  color: green;
+.test_style_text {
+  background-color: lightpink;
+  color: white;
+  letter-spacing: 1.5px;
   font-size: 20px;
+  line-height: 2;
+  text-shadow: 2px 2px yellowgreen;
+  text-decoration: underline blue;
+  text-align: justify; /* растянуть */
 }
 
 .text_mark {
-  font-weight: bold;
-  font-style: italic;
-  color: brown;
-  background-color: antiquewhite;
-}
-
-.smile_list {
-  list-style-type: "\1F60A";
-}
-
-.no_markers_list {
-  list-style-type: none;
+  text-transform: uppercase;
+  text-align: center;
 }
