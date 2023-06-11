@@ -16,22 +16,18 @@ TEXT (p, h)
   font-family: "Montserrat", sans-serif;
 }
 
-p {
-  font-size: 14px;
+.mark_p {
+  background-color: cornsilk;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
-.test_style_text {
-  background-color: lightpink;
-  color: white;
-  letter-spacing: 1.5px;
+.big_text {
   font-size: 20px;
-  line-height: 2;
-  text-shadow: 2px 2px yellowgreen;
-  text-decoration: underline blue;
-  text-align: justify; /* растянуть */
 }
 
-.text_mark {
-  text-transform: uppercase;
-  text-align: center;
+.warning_text {
+  color: coral;
 }
+
+
