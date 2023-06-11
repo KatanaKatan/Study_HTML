@@ -10,10 +10,12 @@ TEXT (p, h)
 -word-spacing
 -line-height
 -text-decoration-line
-
-
-
 */
+
+.font_montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
 p {
   font-size: 14px;
 }
