@@ -1,33 +1,5 @@
-/*
-TEXT (p, h)
--color (const/rgb/#001122)
--background-color
--font-size (px)
--font-weight (normal/bold)
--text-aligh (left/right/center/justify)
--text-transform (uppercase/lowercase/capitalize)
--letter-spacing
--word-spacing
--line-height
--text-decoration-line
-*/
-
-.font_montserrat {
-  font-family: "Montserrat", sans-serif;
+.img {
+  width: 100px;
+  height: 200px;
 }
-
-.mark_p {
-  background-color: cornsilk;
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-.big_text {
-  font-size: 20px;
-}
-
-.warning_text {
-  color: coral;
-}
-
 
