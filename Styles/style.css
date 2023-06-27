@@ -4,8 +4,9 @@
 }
 
 img {
-  display: block;
-  width: ;
+  object-fit: cover;
+  width: inherit;
+  height: inherit;
 }
 
 .container_2 {
